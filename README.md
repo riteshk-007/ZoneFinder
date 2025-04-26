@@ -103,6 +103,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🔥 Credits
 
-Made with ❤️ by Ritesh 
+Made by: Ritesh
+
+Founder: Nitesh
+
+Made with ❤️ by the ZoneFinder Team
 
 ---
